@@ -7,3 +7,4 @@ objs/*.o
 deadlines
 bin/*
 bin
+.token
